@@ -2,6 +2,8 @@
 
 I'm Krzysztof, a first-year student of Computer Science and Intelligent Systems at AGH UST
 
+[rubikon02.github.io](https://rubikon02.github.io)
+
 <!--
 **rubikon02/rubikon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
