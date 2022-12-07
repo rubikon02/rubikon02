@@ -2,7 +2,12 @@
 
 I'm Krzysztof, a first-year student of Computer Science and Intelligent Systems at AGH UST
 
-[rubikon02.github.io](https://rubikon02.github.io)
+#### Narzędzia informatyczne exercises
+
+- [rubikon02.github.io](https://rubikon02.github.io)
+- Papers With Code: High-Resolution Image Synthesis with Latent Diffusion Models
+[article](https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent)/[fork](https://github.com/rubikon02/stable-diffusion)
+
 
 <!--
 **rubikon02/rubikon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
