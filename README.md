@@ -2,11 +2,15 @@
 
 I'm Krzysztof, a first-year student of Computer Science and Intelligent Systems at AGH UST
 
-#### Narzędzia informatyczne exercises
 
+<details>
+  <summary>Narzędzia informatyczne exercises</summary>
+  
 - [rubikon02.github.io](https://rubikon02.github.io)
 - Papers With Code: High-Resolution Image Synthesis with Latent Diffusion Models
 [article](https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent)/[fork](https://github.com/rubikon02/stable-diffusion)
+
+</details>
 
 
 <!--
