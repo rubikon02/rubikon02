@@ -2,6 +2,8 @@
 
 I'm Krzysztof, a first-year student of Computer Science and Intelligent Systems at AGH UST
 
+[Hackathons I have participated in](https://github.com/stars/rubikon02/lists/hackathons)
+
 
 <details>
   <summary>Narzędzia informatyczne exercises</summary>
