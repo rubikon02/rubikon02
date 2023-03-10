@@ -5,16 +5,6 @@ I'm Krzysztof, a first-year student of Computer Science and Intelligent Systems 
 [Hackathons I have participated in](https://github.com/stars/rubikon02/lists/hackathons)
 
 
-<details>
-  <summary>Narzędzia informatyczne exercises</summary>
-  
-- [rubikon02.github.io](https://rubikon02.github.io)
-- Papers With Code: High-Resolution Image Synthesis with Latent Diffusion Models
-[article](https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent)/[fork](https://github.com/rubikon02/stable-diffusion)
-
-</details>
-
-
 <!--
 **rubikon02/rubikon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
