@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="32"/> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="32"/> 
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white" height="32"/> 
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white" height="32"/> 
 <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" height="32"/> 
 <img src="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity" height="32"/>
 <img src="https://img.shields.io/badge/C%23-7F52FF.svg?&style=for-the-badge&logo=csharp&logoColor=white" height="32"/>
